@@ -1,0 +1,17 @@
+# Ignore all the Library, Temp, and Logs folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# Ignore .vs, .sln, and .csproj files
+.vs/
+*.sln
+*.csproj
+*.unityproj
+
+# Ignore local config
+.DS_Store
